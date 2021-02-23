@@ -1,7 +1,7 @@
 # :books: Object oriented programming 2020/2021 course at FMI Sofia University 
 ### Part 2 of C++ Course Programme
 
-#####  :pushpin: Seminar content by weeks: 
+####  :pushpin: Seminar content by weeks: 
 ###### :one: Algorithm complexity
 ###### :two: Structures
 ###### :three: File handling
@@ -15,8 +15,8 @@
 ###### :one::one: Multiple inheritance
 ###### :one::two: Polymorphism
 ###### :one::three: Additional topics
-
-#####  :pushpin: Practicum content by weeks: 
+#
+####  :pushpin: Practicum content by weeks: 
 ###### :one: Revision. Git basics. What the OOP? Structures
 ###### :two: Structures
 ###### :three: File handling
