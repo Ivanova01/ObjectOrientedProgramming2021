@@ -12,5 +12,7 @@
  * git push -> push all commits on the server
  * git pull -> fetch + merge on the tracking branch
 
-ls -> list (directory)
-cd -> change directory
+## Basic GIT bash commands
+ * ls -> list (directory)
+ * cd "directory name"-> change directory (also works with full path)
+ * cd .. -> go in the parent directory of the current directory
