@@ -1,0 +1,22 @@
+*** Coding convensions ***
+
+* There are many multiple-word identifier formats:
+flat case - twowords
+upper case - TWOWORDS
+camelCase - twoWords  *** we will use this ***
+PaskalCase - TwoWords
+snake_case - two_words
+kebab-case - two-words
+döner|case - two|words
+
+* We will use:
+- enum { MAX_VALUE, BQL_HLQB };
+- const int NAME_MAX_LENGTH = 128;
+- struct Mouse {
+
+}; //PaskalCase for struct & class names
+- class SomeClass {
+    int mCapacity; //mCamelCase for fields
+
+    void capacity(); //camelCase for methods
+};
