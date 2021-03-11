@@ -45,7 +45,7 @@ void initializeEngine(Car &c)
     std::cin >> c.engine->horsePower;
 }
 
-//initialize jedi's components
+//initialize car's components
 void initializeCar(Car &c)
 {
     char input[MAX_LENGHT];
