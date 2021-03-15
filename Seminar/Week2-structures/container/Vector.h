@@ -2,9 +2,6 @@
 #define VECTOR_H
 struct Vector
 {
-    int *array;
-    size_t capacity;
-    size_t size;
 };
 
 void allocateMemory(Vector &vector, size_t capacity);
